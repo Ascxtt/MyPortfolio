@@ -2,13 +2,16 @@
   "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
+  "homepage": "https://romaineascott.github.io/My-Portfolio",
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
   },
   "devDependencies": {},
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive --usePolling"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive --usePolling",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Romaine Ascott",
   "license": "MIT"
