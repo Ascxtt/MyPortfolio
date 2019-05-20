@@ -51,7 +51,7 @@
 .menu-nav .portrait {
   width: 250px;
   height: 250px;
-  background: url("/dist/img/me.jpg");
+  background: url("/dist/img/me2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -355,7 +355,7 @@ main#home h1 {
     font-size: inherit;
   }
   .menu-nav {
-    height: 75vh;
+    height: 56vh;
     transform: translate3d(-100%, 0, 0);
     font-size: 24px;
   }
