@@ -51,7 +51,7 @@
 .menu-nav .portrait {
   width: 250px;
   height: 250px;
-  background: url("../img/me2.jpg");
+  background: url("/dist/img/me2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -369,7 +369,7 @@ main#home h1 {
     top: 20px;
   }
   .menu-branding .portrait {
-    background: url("../img/me.jpg");
+    background: url("/dist/img/me2.jpg");
     width: 150px;
     height: 150px;
   }
