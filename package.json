@@ -2,7 +2,7 @@
   "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
-  "homepage": "https://romaineascott.github.io/My-Portfolio",
+  "homepage": "https://ascxtt.github.io/MyPortfolio/",
   "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.0.1",
